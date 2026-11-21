@@ -3,7 +3,7 @@ cask "milkrice" do
 
   version "0.1.0"
   # Placeholder: the release workflow (homebrew.yml in the milkrice repo) fills in the real checksum.
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "2c61a15c9b64e42a1a3eb1d511cc618f753048a94ac4179da58aae11c89cd8d1"
 
   url "https://github.com/thekindofme/milkrice/releases/download/v#{version}/Milkrice_#{version}_#{arch}.dmg"
   name "Milkrice"
